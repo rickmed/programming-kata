@@ -1,0 +1,12 @@
+{
+  "name": "programming-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --o --watch --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
